@@ -14,28 +14,18 @@
 
 ---
 #### ▶️ STEPS:
-- [x] Introduction
-- [x] Reading in the dataset
-- [x] Getting an overview
-- [x] Finding the TOP 10 contributors
-- [x] Wrangling the data
-- [x] Treating wrong timestamps
-- [x] Grouping commits per year
-- [x] Visualizing the history of Linux
-- [x] Conclusion
+- [x] Loading your friend's data into a dictionary
+- [x] Creating a DataFrame from a dictionary
+- [x] A visual inspection of our data
+- [x] Loading the rest of the data from a CSV
+- [x] Filtering for movies!
+- [x] Creating a scatter plot
+- [x] Digging deeper
+- [x] Marking non-feature films
+- [x] Plotting with color!
+- [x] What next?
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
 ##### 🧑‍🏫 **Instructor**: Justin Saddlemyer
 ##### 📖 **Career Track**: Data Scientist with Python
-
-1. Loading your friend's data into a dictionary
-2. Creating a DataFrame from a dictionary
-3. A visual inspection of our data
-4. Loading the rest of the data from a CSV
-5. Filtering for movies!
-6. Creating a scatter plot
-7. Digging deeper
-8. Marking non-feature films
-9. Plotting with color!
-10. What next?
