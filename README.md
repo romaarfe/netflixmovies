@@ -26,7 +26,7 @@
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
-##### 🧑‍🏫 **Instructor**: Markus Harrer
+##### 🧑‍🏫 **Instructor**: Justin Saddlemyer
 ##### 📖 **Career Track**: Data Scientist with Python
 
 1. Loading your friend's data into a dictionary
@@ -39,8 +39,3 @@
 8. Marking non-feature films
 9. Plotting with color!
 10. What next?
-#
-
-- #### At DataCamp https://www.datacamp.com
-- #### Instructor: Justin Saddlemyer
-- #### Career Track: Data Scientist with Python
